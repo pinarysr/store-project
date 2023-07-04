@@ -1,7 +1,7 @@
 # Store Project
 
-### 'Deploy'
+### `Deploy`
 https://store-projectt.netlify.app/
 
-### 'Screen'
+### `Screen`
 ![](screen.gif)
